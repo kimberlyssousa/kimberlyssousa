@@ -1,15 +1,15 @@
 ### Olá Pessoal, 
 
 #### Meu nome é Kimberly e estou me especializando na área de tecnologia da informação, cursando um superior e já com um ensino técnico concluido.
-#### Além disso, estou concluindo alguns cursos em linguagens de programação como:
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+#### Além disso, estou aprendendo e desenvolvendo projetos em:
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 #### Tenho conhecimento avançado em:
 
