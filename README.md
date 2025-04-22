@@ -34,6 +34,8 @@
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS) ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub) ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=Yarn)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimberlyssousa&show_icons=true&theme=transparent)
+
 
 
 
